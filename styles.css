@@ -1,0 +1,46 @@
+body {
+    background-color: antiquewhite;
+}
+
+#navbar {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-color: #0000EE;
+}
+
+a.toclink:visited {
+    color: #0000EE;
+}
+
+#LiberiaMap {
+    width: 45%;
+    height: auto;
+}
+
+header {
+    display: block
+}
+
+h1:after {
+    content:' ';
+    display: block;
+    border:0.5px solid grey;
+}
+
+h3:after {
+    content:' ';
+    display: block;
+    border:0.5px solid grey;
+}
+
+.tocnumber {
+    color: black
+}
+
