@@ -1,2 +1,2 @@
-# papapedia
-Wikipedia Clone For László Forgács
+# Papapedia
+Wikipedia clone for László Forgács
