@@ -1,5 +1,7 @@
 body {
     background-color: antiquewhite;
+    font-family: Georgia, Times, serif;
+    font-size: 14px
 }
 
 #navbar {
@@ -46,4 +48,14 @@ h3:after {
 
 #todo {
     background-color: lightcoral;
+}
+
+#headerofinfobox {
+    text-align: center;
+}
+
+table.infobox {
+    border: 1px solid rgb(162, 169, 177);
+    box-shadow: rgb(162, 169, 177) 3px 3px 6px 0px;
+    float: right;
 }
