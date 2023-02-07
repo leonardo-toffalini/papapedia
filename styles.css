@@ -5,7 +5,7 @@ body {
     color: #202122;
 }
 
-#navbar {
+ul.navbar {
     list-style: none;
 }
 
