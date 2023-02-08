@@ -35,6 +35,19 @@ header {
     color: black
 }
 
+.toctitle {
+    margin-left: 20px;
+}
+
+.toclink {
+    color: #0645ad;
+}
+
+a.toclink:visited {
+    color: #0b0080;
+}
+
+
 #todo {
     background-color: lightcoral;
 }
