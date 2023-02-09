@@ -18,9 +18,10 @@ a:hover {
     text-decoration-color: #0000EE;
 }
 
-a.toclink:visited {
+/*a.toclink:visited {
     color: #0000EE;
 }
+*/
 
 #LiberiaMap {
     width: 100%;
