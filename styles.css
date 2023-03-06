@@ -18,6 +18,38 @@ a:hover {
     text-decoration-color: #0000ee;
 }
 
+.sidebar {
+    height: 4000px;
+    width: 180px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding-top: 40px;
+    padding-left: 10px;
+    border-right: 1px solid #A7D7F9;
+    background-color: #F6F6F6;
+    }
+    
+    .sidebar div {
+    padding: 8px;
+    font-size: 12px;
+    display: block;
+    padding-bottom: 2px;
+    }
+
+    #sidebar1 {
+        padding-top: 1rem;
+    }
+
+    #wikilogo {
+        margin-top: -30px;
+    }
+
+body {
+    margin-left: 190px;
+    padding-left: 1rem;
+}
+
 /*a.toclink:visited {
     color: #0000EE;
 }
