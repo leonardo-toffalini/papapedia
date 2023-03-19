@@ -94,7 +94,7 @@ table.infobox {
     box-shadow: 3px 3px 6px 0px #a2a9b1;
     float: right;
     padding: 5px;
-    margin-left: 0 0 0.5em 1em;
+    margin-left: 1em;
     background-color: #f8f9fa;
     clear: right;
     vertical-align: top;
@@ -102,7 +102,14 @@ table.infobox {
     border-collapse: separate;
     border-spacing: 5px;
     line-height: 150%;
-    width: 272px;
+    width: 350px;
+    text-align: center;
+}
+
+
+#unavemhq {
+    width: 100%;
+    height: auto;
 }
 
 h1 {
