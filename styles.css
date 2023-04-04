@@ -20,7 +20,7 @@ a:hover {
 }
 
 .sidebar {
-    height: 9850px;
+    height: 10950px;
     width: 180px;
     position: absolute;
     left: 0;
@@ -152,4 +152,8 @@ div.toc {
     padding: 7px;
     font-size: 95%;
     line-height: 1.6;
+}
+
+li.ref {
+    font-size: 85%;
 }
