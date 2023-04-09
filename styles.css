@@ -20,7 +20,7 @@ a:hover {
 }
 
 .sidebar {
-    height: 11050px;
+    height: 11600px;
     width: 180px;
     position: absolute;
     left: 0;
@@ -108,6 +108,11 @@ table.infobox {
 }
 
 #unavemhq {
+    width: 100%;
+    height: auto;
+}
+
+#african-child {
     width: 100%;
     height: auto;
 }
