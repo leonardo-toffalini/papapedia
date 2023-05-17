@@ -53,11 +53,6 @@ body {
     padding-left: 1rem;
 }
 
-/*a.toclink:visited {
-    color: #0000EE;
-}
-*/
-
 #LiberiaMap {
     width: 100%;
     height: auto;
@@ -135,18 +130,6 @@ h2 {
     border-bottom: 1px solid #a2a9b1;
 }
 
-/*h1:after {
-    content: " ";
-    display: block;
-    border: 0.5px solid grey;
-}*/
-
-/*h2:after {
-    content: " ";
-    display: block;
-    border: 0.5px solid grey;
-}*/
-
 h3 {
     font-weight: bold;
     font-size: 1.2em;
@@ -163,4 +146,22 @@ div.toc {
 
 li.ref {
     font-size: 85%;
+}
+
+@media only screen and (max-width: 600px) {
+    div.sidebar {
+        display: none;
+    }
+
+    body {
+        margin-left: auto;
+    }
+
+    table.infobox {
+        display: none;
+    }
+
+    div.toc {
+        display: none;
+    }
 }
